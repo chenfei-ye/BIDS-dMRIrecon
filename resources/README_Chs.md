@@ -112,13 +112,13 @@ docker run -it --rm -v <bids_root>:/bids_dataset bids-dmrirecon:latest python /s
 ##   可视化说明（主要用于本地qc和实验室画图）
 
 在本地win系统下载并安装[MindsGoDataViewer](http://api.open.brainlabel.org/data/ycf/MindsGoDataViewer_Setup_V1.0_Release_20210730%2010-46-13.exe)，打开软件可针对`/derivatives/dmri_recon/visualization`文件夹的内容进行可视化。
-![1.png](resources/1.png)
+![1.png](1.png)
 
 先选择本地nifti底图文件，再选择本地vtk文件夹，再选择本地vtp文件夹。
-![2.png](resources/2.png)
+![2.png](2.png)
 
 对于同一数据格式（如vtp）的图像需放置在同一个文件夹。
-![3.png](resources/3.png)
+![3.png](3.png)
 
 对于tractseg算法，流程上先基于图谱的训练模型，对具体纤维束（如上图中的CST bundle_mask）进行自动分割；然后基于bundle_mask自动估计出顶端（endings_e）和底端（endings_b）；最后根据Tract Orientation Maps (TOMs)进行纤维追踪，默认限制条件是纤维空间在bundle_mask内部，且每一根streamline同时连接顶端（endings_e）和底端（endings_b），直到满足条件的纤维个数达到阈值（默认2000）。
 
