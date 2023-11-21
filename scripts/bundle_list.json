@@ -1,0 +1,9 @@
+{
+    "bundle_ls": [
+        "AF_left",
+        "AF_right",
+        "CST_left",
+        "CST_right",
+        "CC"
+    ]
+}

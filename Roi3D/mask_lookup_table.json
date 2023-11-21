@@ -1,0 +1,12 @@
+{
+    "1": {
+    "children": [], 
+    "components": [
+      1
+    ],
+    "is_sulcus": 1,
+    "level": 0,
+    "name": "BrainMask",
+    "parent": []
+  }
+}

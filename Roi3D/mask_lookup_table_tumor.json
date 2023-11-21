@@ -1,0 +1,32 @@
+{
+    "1": {
+    "children": [], 
+    "components": [
+      1
+    ],
+    "is_sulcus": 0,
+    "level": 0,
+    "name": "Necrotic_Zone",
+    "parent": []
+  },
+    "2": {
+    "children": [], 
+    "components": [
+      2
+    ],
+    "is_sulcus": 0,
+    "level": 0,
+    "name": "Edema_Zone",
+    "parent": []
+  },
+    "4": {
+    "children": [], 
+    "components": [
+      4
+    ],
+    "is_sulcus": 0,
+    "level": 0,
+    "name": "Enhanced_Zone",
+    "parent": []
+  }
+}

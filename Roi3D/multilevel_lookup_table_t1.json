@@ -1,0 +1,7895 @@
+{
+  "1": {
+    "children": [],
+    "components": [
+      1
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFG_L",
+    "parent": [
+      284
+    ]
+  },
+  "2": {
+    "children": [],
+    "components": [
+      2
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFG_R",
+    "parent": [
+      285
+    ]
+  },
+  "3": {
+    "children": [],
+    "components": [
+      3
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFG_PFC_L",
+    "parent": [
+      284
+    ]
+  },
+  "4": {
+    "children": [],
+    "components": [
+      4
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFG_PFC_R",
+    "parent": [
+      285
+    ]
+  },
+  "5": {
+    "children": [],
+    "components": [
+      5
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFG_pole_L",
+    "parent": [
+      284
+    ]
+  },
+  "6": {
+    "children": [],
+    "components": [
+      6
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFG_pole_R",
+    "parent": [
+      285
+    ]
+  },
+  "7": {
+    "children": [],
+    "components": [
+      7
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFG_L",
+    "parent": [
+      286
+    ]
+  },
+  "8": {
+    "children": [],
+    "components": [
+      8
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFG_R",
+    "parent": [
+      287
+    ]
+  },
+  "9": {
+    "children": [],
+    "components": [
+      9
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFG_DPFC_L",
+    "parent": [
+      286
+    ]
+  },
+  "10": {
+    "children": [],
+    "components": [
+      10
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFG_DPFC_R",
+    "parent": [
+      287
+    ]
+  },
+  "11": {
+    "children": [],
+    "components": [
+      11
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFG_opercularis_L",
+    "parent": [
+      288
+    ]
+  },
+  "12": {
+    "children": [],
+    "components": [
+      12
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFG_opercularis_R",
+    "parent": [
+      289
+    ]
+  },
+  "13": {
+    "children": [],
+    "components": [
+      13
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFG_orbitalis_L",
+    "parent": [
+      288
+    ]
+  },
+  "14": {
+    "children": [],
+    "components": [
+      14
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFG_orbitalis_R",
+    "parent": [
+      289
+    ]
+  },
+  "15": {
+    "children": [],
+    "components": [
+      15
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFG_triangularis_L",
+    "parent": [
+      288
+    ]
+  },
+  "16": {
+    "children": [],
+    "components": [
+      16
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFG_triangularis_R",
+    "parent": [
+      289
+    ]
+  },
+  "17": {
+    "children": [],
+    "components": [
+      17
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LFOG_L",
+    "parent": [
+      290
+    ]
+  },
+  "18": {
+    "children": [],
+    "components": [
+      18
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LFOG_R",
+    "parent": [
+      291
+    ]
+  },
+  "19": {
+    "children": [],
+    "components": [
+      19
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFOG_L",
+    "parent": [
+      290
+    ]
+  },
+  "20": {
+    "children": [],
+    "components": [
+      20
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFOG_R",
+    "parent": [
+      291
+    ]
+  },
+  "21": {
+    "children": [],
+    "components": [
+      21
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RG_L",
+    "parent": [
+      292
+    ]
+  },
+  "22": {
+    "children": [],
+    "components": [
+      22
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RG_R",
+    "parent": [
+      293
+    ]
+  },
+  "23": {
+    "children": [],
+    "components": [
+      23
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PoCG_L",
+    "parent": [
+      294
+    ]
+  },
+  "24": {
+    "children": [],
+    "components": [
+      24
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PoCG_R",
+    "parent": [
+      295
+    ]
+  },
+  "25": {
+    "children": [],
+    "components": [
+      25
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCG_L",
+    "parent": [
+      296
+    ]
+  },
+  "26": {
+    "children": [],
+    "components": [
+      26
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCG_R",
+    "parent": [
+      297
+    ]
+  },
+  "27": {
+    "children": [],
+    "components": [
+      27
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SPG_L",
+    "parent": [
+      298
+    ]
+  },
+  "28": {
+    "children": [],
+    "components": [
+      28
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SPG_R",
+    "parent": [
+      299
+    ]
+  },
+  "29": {
+    "children": [],
+    "components": [
+      29
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SMG_L",
+    "parent": [
+      300
+    ]
+  },
+  "30": {
+    "children": [],
+    "components": [
+      30
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SMG_R",
+    "parent": [
+      301
+    ]
+  },
+  "31": {
+    "children": [],
+    "components": [
+      31
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "AG_L",
+    "parent": [
+      302
+    ]
+  },
+  "32": {
+    "children": [],
+    "components": [
+      32
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "AG_R",
+    "parent": [
+      303
+    ]
+  },
+  "33": {
+    "children": [],
+    "components": [
+      33
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCu_L",
+    "parent": [
+      304
+    ]
+  },
+  "34": {
+    "children": [],
+    "components": [
+      34
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCu_R",
+    "parent": [
+      305
+    ]
+  },
+  "35": {
+    "children": [],
+    "components": [
+      35
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STG_L",
+    "parent": [
+      306
+    ]
+  },
+  "36": {
+    "children": [],
+    "components": [
+      36
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STG_R",
+    "parent": [
+      307
+    ]
+  },
+  "37": {
+    "children": [],
+    "components": [
+      37
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STG_pole_L",
+    "parent": [
+      306
+    ]
+  },
+  "38": {
+    "children": [],
+    "components": [
+      38
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STG_pole_R",
+    "parent": [
+      307
+    ]
+  },
+  "39": {
+    "children": [],
+    "components": [
+      39
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTG_L",
+    "parent": [
+      308
+    ]
+  },
+  "40": {
+    "children": [],
+    "components": [
+      40
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTG_R",
+    "parent": [
+      309
+    ]
+  },
+  "41": {
+    "children": [],
+    "components": [
+      41
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTG_pole_L",
+    "parent": [
+      308
+    ]
+  },
+  "42": {
+    "children": [],
+    "components": [
+      42
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTG_pole_R",
+    "parent": [
+      309
+    ]
+  },
+  "43": {
+    "children": [],
+    "components": [
+      43
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ITG_L",
+    "parent": [
+      310
+    ]
+  },
+  "44": {
+    "children": [],
+    "components": [
+      44
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ITG_R",
+    "parent": [
+      311
+    ]
+  },
+  "45": {
+    "children": [],
+    "components": [
+      45
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PHG_L",
+    "parent": [
+      312
+    ]
+  },
+  "46": {
+    "children": [],
+    "components": [
+      46
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PHG_R",
+    "parent": [
+      313
+    ]
+  },
+  "47": {
+    "children": [],
+    "components": [
+      47
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ENT_L",
+    "parent": [
+      312
+    ]
+  },
+  "48": {
+    "children": [],
+    "components": [
+      48
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ENT_R",
+    "parent": [
+      313
+    ]
+  },
+  "49": {
+    "children": [],
+    "components": [
+      49
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "FuG_L",
+    "parent": [
+      314
+    ]
+  },
+  "50": {
+    "children": [],
+    "components": [
+      50
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "FuG_R",
+    "parent": [
+      315
+    ]
+  },
+  "51": {
+    "children": [],
+    "components": [
+      51
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SOG_L",
+    "parent": [
+      316
+    ]
+  },
+  "52": {
+    "children": [],
+    "components": [
+      52
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SOG_R",
+    "parent": [
+      317
+    ]
+  },
+  "53": {
+    "children": [],
+    "components": [
+      53
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MOG_L",
+    "parent": [
+      318
+    ]
+  },
+  "54": {
+    "children": [],
+    "components": [
+      54
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MOG_R",
+    "parent": [
+      319
+    ]
+  },
+  "55": {
+    "children": [],
+    "components": [
+      55
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IOG_L",
+    "parent": [
+      320
+    ]
+  },
+  "56": {
+    "children": [],
+    "components": [
+      56
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IOG_R",
+    "parent": [
+      321
+    ]
+  },
+  "57": {
+    "children": [],
+    "components": [
+      57
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Cu_L",
+    "parent": [
+      322
+    ]
+  },
+  "58": {
+    "children": [],
+    "components": [
+      58
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Cu_R",
+    "parent": [
+      323
+    ]
+  },
+  "59": {
+    "children": [],
+    "components": [
+      59
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LG_L",
+    "parent": [
+      324
+    ]
+  },
+  "60": {
+    "children": [],
+    "components": [
+      60
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LG_R",
+    "parent": [
+      325
+    ]
+  },
+  "61": {
+    "children": [],
+    "components": [
+      61
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "rostral_ACC_L",
+    "parent": [
+      326
+    ]
+  },
+  "62": {
+    "children": [],
+    "components": [
+      62
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "rostral_ACC_R",
+    "parent": [
+      327
+    ]
+  },
+  "63": {
+    "children": [],
+    "components": [
+      63
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subcallosal_ACC_L",
+    "parent": [
+      326
+    ]
+  },
+  "64": {
+    "children": [],
+    "components": [
+      64
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subcallosal_ACC_R",
+    "parent": [
+      327
+    ]
+  },
+  "65": {
+    "children": [],
+    "components": [
+      65
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subgenual_ACC_L",
+    "parent": [
+      326
+    ]
+  },
+  "66": {
+    "children": [],
+    "components": [
+      66
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subgenual_ACC_R",
+    "parent": [
+      327
+    ]
+  },
+  "67": {
+    "children": [],
+    "components": [
+      67
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "dorsal_ACC_L",
+    "parent": [
+      326
+    ]
+  },
+  "68": {
+    "children": [],
+    "components": [
+      68
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "dorsal_ACC_R",
+    "parent": [
+      327
+    ]
+  },
+  "69": {
+    "children": [],
+    "components": [
+      69
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCC_L",
+    "parent": [
+      326
+    ]
+  },
+  "70": {
+    "children": [],
+    "components": [
+      70
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCC_R",
+    "parent": [
+      327
+    ]
+  },
+  "71": {
+    "children": [],
+    "components": [
+      71
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Insula_L",
+    "parent": [
+      328
+    ]
+  },
+  "72": {
+    "children": [],
+    "components": [
+      72
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Insula_R",
+    "parent": [
+      329
+    ]
+  },
+  "73": {
+    "children": [],
+    "components": [
+      73
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Amyg_L",
+    "parent": [
+      330
+    ]
+  },
+  "74": {
+    "children": [],
+    "components": [
+      74
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Amyg_R",
+    "parent": [
+      331
+    ]
+  },
+  "75": {
+    "children": [],
+    "components": [
+      75
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Hippo_L",
+    "parent": [
+      332
+    ]
+  },
+  "76": {
+    "children": [],
+    "components": [
+      76
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Hippo_R",
+    "parent": [
+      333
+    ]
+  },
+  "77": {
+    "children": [],
+    "components": [
+      77
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Caud_L",
+    "parent": [
+      334
+    ]
+  },
+  "78": {
+    "children": [],
+    "components": [
+      78
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Caud_R",
+    "parent": [
+      335
+    ]
+  },
+  "79": {
+    "children": [],
+    "components": [
+      79
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Put_L",
+    "parent": [
+      336
+    ]
+  },
+  "80": {
+    "children": [],
+    "components": [
+      80
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Put_R",
+    "parent": [
+      337
+    ]
+  },
+  "81": {
+    "children": [],
+    "components": [
+      81
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "GP_L",
+    "parent": [
+      338
+    ]
+  },
+  "82": {
+    "children": [],
+    "components": [
+      82
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "GP_R",
+    "parent": [
+      339
+    ]
+  },
+  "83": {
+    "children": [],
+    "components": [
+      83
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Thalamus_L",
+    "parent": [
+      340
+    ]
+  },
+  "84": {
+    "children": [],
+    "components": [
+      84
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Thalamus_R",
+    "parent": [
+      341
+    ]
+  },
+  "85": {
+    "children": [],
+    "components": [
+      85
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "HypoThalamus_L",
+    "parent": [
+      342
+    ]
+  },
+  "86": {
+    "children": [],
+    "components": [
+      86
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "HypoThalamus_R",
+    "parent": [
+      343
+    ]
+  },
+  "87": {
+    "children": [],
+    "components": [
+      87
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "AnteriorBasalForebrain_L",
+    "parent": [
+      342
+    ]
+  },
+  "88": {
+    "children": [],
+    "components": [
+      88
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "AnteriorBasalForebrain_R",
+    "parent": [
+      343
+    ]
+  },
+  "89": {
+    "children": [],
+    "components": [
+      89
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "NucAccumbens_L",
+    "parent": [
+      342
+    ]
+  },
+  "90": {
+    "children": [],
+    "components": [
+      90
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "NucAccumbens_R",
+    "parent": [
+      343
+    ]
+  },
+  "91": {
+    "children": [],
+    "components": [
+      91
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RedNc_L",
+    "parent": [
+      344
+    ]
+  },
+  "92": {
+    "children": [],
+    "components": [
+      92
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RedNc_R",
+    "parent": [
+      345
+    ]
+  },
+  "93": {
+    "children": [],
+    "components": [
+      93
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Snigra_L",
+    "parent": [
+      344
+    ]
+  },
+  "94": {
+    "children": [],
+    "components": [
+      94
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Snigra_R",
+    "parent": [
+      345
+    ]
+  },
+  "95": {
+    "children": [],
+    "components": [
+      95
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CerebellumGM_R",
+    "parent": [
+      346
+    ]
+  },
+  "96": {
+    "children": [],
+    "components": [
+      96
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CerebellumGM_L",
+    "parent": [
+      347
+    ]
+  },
+  "97": {
+    "children": [],
+    "components": [
+      97
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CP_L",
+    "parent": [
+      344
+    ]
+  },
+  "98": {
+    "children": [],
+    "components": [
+      98
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CP_R",
+    "parent": [
+      345
+    ]
+  },
+  "99": {
+    "children": [],
+    "components": [
+      99
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Midbrain_L",
+    "parent": [
+      344
+    ]
+  },
+  "100": {
+    "children": [],
+    "components": [
+      100
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Midbrain_R",
+    "parent": [
+      345
+    ]
+  },
+  "101": {
+    "children": [],
+    "components": [
+      101
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CST_L",
+    "parent": [
+      348
+    ]
+  },
+  "102": {
+    "children": [],
+    "components": [
+      102
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CST_R",
+    "parent": [
+      349
+    ]
+  },
+  "103": {
+    "children": [],
+    "components": [
+      103
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SCP_L",
+    "parent": [
+      348
+    ]
+  },
+  "104": {
+    "children": [],
+    "components": [
+      104
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SCP_R",
+    "parent": [
+      349
+    ]
+  },
+  "105": {
+    "children": [],
+    "components": [
+      105
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MCP_L",
+    "parent": [
+      348
+    ]
+  },
+  "106": {
+    "children": [],
+    "components": [
+      106
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MCP_R",
+    "parent": [
+      349
+    ]
+  },
+  "107": {
+    "children": [],
+    "components": [
+      107
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCT_L",
+    "parent": [
+      348
+    ]
+  },
+  "108": {
+    "children": [],
+    "components": [
+      108
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCT_R",
+    "parent": [
+      349
+    ]
+  },
+  "109": {
+    "children": [],
+    "components": [
+      109
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ICP_L",
+    "parent": [
+      350
+    ]
+  },
+  "110": {
+    "children": [],
+    "components": [
+      110
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ICP_R",
+    "parent": [
+      351
+    ]
+  },
+  "111": {
+    "children": [],
+    "components": [
+      111
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ML_L",
+    "parent": [
+      348
+    ]
+  },
+  "112": {
+    "children": [],
+    "components": [
+      112
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ML_R",
+    "parent": [
+      349
+    ]
+  },
+  "113": {
+    "children": [],
+    "components": [
+      113
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Pons_L",
+    "parent": [
+      348
+    ]
+  },
+  "114": {
+    "children": [],
+    "components": [
+      114
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Pons_R",
+    "parent": [
+      349
+    ]
+  },
+  "115": {
+    "children": [],
+    "components": [
+      115
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Medulla_L",
+    "parent": [
+      350
+    ]
+  },
+  "116": {
+    "children": [],
+    "components": [
+      116
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Medulla_R",
+    "parent": [
+      351
+    ]
+  },
+  "117": {
+    "children": [],
+    "components": [
+      117
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ACR_L",
+    "parent": [
+      352
+    ]
+  },
+  "118": {
+    "children": [],
+    "components": [
+      118
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ACR_R",
+    "parent": [
+      353
+    ]
+  },
+  "119": {
+    "children": [],
+    "components": [
+      119
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SCR_L",
+    "parent": [
+      352
+    ]
+  },
+  "120": {
+    "children": [],
+    "components": [
+      120
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SCR_R",
+    "parent": [
+      353
+    ]
+  },
+  "121": {
+    "children": [],
+    "components": [
+      121
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCR_L",
+    "parent": [
+      354
+    ]
+  },
+  "122": {
+    "children": [],
+    "components": [
+      122
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCR_R",
+    "parent": [
+      355
+    ]
+  },
+  "123": {
+    "children": [],
+    "components": [
+      123
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "GCC_L",
+    "parent": [
+      356
+    ]
+  },
+  "124": {
+    "children": [],
+    "components": [
+      124
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "GCC_R",
+    "parent": [
+      357
+    ]
+  },
+  "125": {
+    "children": [],
+    "components": [
+      125
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "BCC_L",
+    "parent": [
+      358
+    ]
+  },
+  "126": {
+    "children": [],
+    "components": [
+      126
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "BCC_R",
+    "parent": [
+      359
+    ]
+  },
+  "127": {
+    "children": [],
+    "components": [
+      127
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SCC_L",
+    "parent": [
+      360
+    ]
+  },
+  "128": {
+    "children": [],
+    "components": [
+      128
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SCC_R",
+    "parent": [
+      361
+    ]
+  },
+  "129": {
+    "children": [],
+    "components": [
+      129
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PVWl_L",
+    "parent": [
+      362
+    ]
+  },
+  "130": {
+    "children": [],
+    "components": [
+      130
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PVWl_R",
+    "parent": [
+      363
+    ]
+  },
+  "131": {
+    "children": [],
+    "components": [
+      131
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ALIC_L",
+    "parent": [
+      364
+    ]
+  },
+  "132": {
+    "children": [],
+    "components": [
+      132
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ALIC_R",
+    "parent": [
+      365
+    ]
+  },
+  "133": {
+    "children": [],
+    "components": [
+      133
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PLIC_L",
+    "parent": [
+      366
+    ]
+  },
+  "134": {
+    "children": [],
+    "components": [
+      134
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PLIC_R",
+    "parent": [
+      367
+    ]
+  },
+  "135": {
+    "children": [],
+    "components": [
+      135
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RLIC_L",
+    "parent": [
+      368
+    ]
+  },
+  "136": {
+    "children": [],
+    "components": [
+      136
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RLIC_R",
+    "parent": [
+      369
+    ]
+  },
+  "137": {
+    "children": [],
+    "components": [
+      137
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "EC_L",
+    "parent": [
+      368
+    ]
+  },
+  "138": {
+    "children": [],
+    "components": [
+      138
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "EC_R",
+    "parent": [
+      369
+    ]
+  },
+  "139": {
+    "children": [],
+    "components": [
+      139
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CGC_L",
+    "parent": [
+      370
+    ]
+  },
+  "140": {
+    "children": [],
+    "components": [
+      140
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CGC_R",
+    "parent": [
+      371
+    ]
+  },
+  "141": {
+    "children": [],
+    "components": [
+      141
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CGH_L",
+    "parent": [
+      372
+    ]
+  },
+  "142": {
+    "children": [],
+    "components": [
+      142
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CGH_R",
+    "parent": [
+      373
+    ]
+  },
+  "143": {
+    "children": [],
+    "components": [
+      143
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Fx_ST_L",
+    "parent": [
+      374
+    ]
+  },
+  "144": {
+    "children": [],
+    "components": [
+      144
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Fx_ST_R",
+    "parent": [
+      375
+    ]
+  },
+  "145": {
+    "children": [],
+    "components": [
+      145
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Fx_L",
+    "parent": [
+      376
+    ]
+  },
+  "146": {
+    "children": [],
+    "components": [
+      146
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Fx_R",
+    "parent": [
+      377
+    ]
+  },
+  "147": {
+    "children": [],
+    "components": [
+      147
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFO_L",
+    "parent": [
+      368
+    ]
+  },
+  "148": {
+    "children": [],
+    "components": [
+      148
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFO_R",
+    "parent": [
+      369
+    ]
+  },
+  "149": {
+    "children": [],
+    "components": [
+      149
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PTR_L",
+    "parent": [
+      368
+    ]
+  },
+  "150": {
+    "children": [],
+    "components": [
+      150
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PTR_R",
+    "parent": [
+      369
+    ]
+  },
+  "151": {
+    "children": [],
+    "components": [
+      151
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SS_L",
+    "parent": [
+      368
+    ]
+  },
+  "152": {
+    "children": [],
+    "components": [
+      152
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SS_R",
+    "parent": [
+      369
+    ]
+  },
+  "153": {
+    "children": [],
+    "components": [
+      153
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFO_L",
+    "parent": [
+      352
+    ]
+  },
+  "154": {
+    "children": [],
+    "components": [
+      154
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFO_R",
+    "parent": [
+      353
+    ]
+  },
+  "155": {
+    "children": [],
+    "components": [
+      155
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SLF_L",
+    "parent": [
+      378
+    ]
+  },
+  "156": {
+    "children": [],
+    "components": [
+      156
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SLF_R",
+    "parent": [
+      379
+    ]
+  },
+  "157": {
+    "children": [],
+    "components": [
+      157
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Cl_L",
+    "parent": [
+      342
+    ]
+  },
+  "158": {
+    "children": [],
+    "components": [
+      158
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Cl_R",
+    "parent": [
+      343
+    ]
+  },
+  "159": {
+    "children": [],
+    "components": [
+      159
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PosteriorBasalForebrain_L",
+    "parent": [
+      342
+    ]
+  },
+  "160": {
+    "children": [],
+    "components": [
+      160
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PosteriorBasalForebrain_R",
+    "parent": [
+      343
+    ]
+  },
+  "161": {
+    "children": [],
+    "components": [
+      161
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Mammillary_R",
+    "parent": [
+      343
+    ]
+  },
+  "162": {
+    "children": [],
+    "components": [
+      162
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Mammillary_L",
+    "parent": [
+      342
+    ]
+  },
+  "163": {
+    "children": [],
+    "components": [
+      163
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "OpticTract_L",
+    "parent": []
+  },
+  "164": {
+    "children": [],
+    "components": [
+      164
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "OpticTract_R",
+    "parent": []
+  },
+  "165": {
+    "children": [],
+    "components": [
+      165
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_Frontal_L",
+    "parent": [
+      380
+    ]
+  },
+  "166": {
+    "children": [],
+    "components": [
+      166
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_body_L",
+    "parent": [
+      380
+    ]
+  },
+  "167": {
+    "children": [],
+    "components": [
+      167
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_atrium_L",
+    "parent": [
+      381
+    ]
+  },
+  "168": {
+    "children": [],
+    "components": [
+      168
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_Occipital_L",
+    "parent": [
+      381
+    ]
+  },
+  "169": {
+    "children": [],
+    "components": [
+      169
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_Inferior_L",
+    "parent": [
+      382
+    ]
+  },
+  "170": {
+    "children": [],
+    "components": [
+      170
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_Frontal_R",
+    "parent": [
+      383
+    ]
+  },
+  "171": {
+    "children": [],
+    "components": [
+      171
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_body_R",
+    "parent": [
+      383
+    ]
+  },
+  "172": {
+    "children": [],
+    "components": [
+      172
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_atrium_R",
+    "parent": [
+      384
+    ]
+  },
+  "173": {
+    "children": [],
+    "components": [
+      173
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_Occipital_R",
+    "parent": [
+      384
+    ]
+  },
+  "174": {
+    "children": [],
+    "components": [
+      174
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LV_Inferior_R",
+    "parent": [
+      385
+    ]
+  },
+  "175": {
+    "children": [],
+    "components": [
+      175
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "III_ventricle",
+    "parent": [
+      386
+    ]
+  },
+  "176": {
+    "children": [],
+    "components": [
+      176
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PVWa_L",
+    "parent": [
+      387
+    ]
+  },
+  "177": {
+    "children": [],
+    "components": [
+      177
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PVWa_R",
+    "parent": [
+      388
+    ]
+  },
+  "178": {
+    "children": [],
+    "components": [
+      178
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PVWp_L",
+    "parent": [
+      362
+    ]
+  },
+  "179": {
+    "children": [],
+    "components": [
+      179
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PVWp_R",
+    "parent": [
+      363
+    ]
+  },
+  "180": {
+    "children": [],
+    "components": [
+      180
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFWM_L",
+    "parent": [
+      389
+    ]
+  },
+  "181": {
+    "children": [],
+    "components": [
+      181
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFWM_R",
+    "parent": [
+      390
+    ]
+  },
+  "182": {
+    "children": [],
+    "components": [
+      182
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFWM_PFC_L",
+    "parent": [
+      389
+    ]
+  },
+  "183": {
+    "children": [],
+    "components": [
+      183
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFWM_PFC_R",
+    "parent": [
+      390
+    ]
+  },
+  "184": {
+    "children": [],
+    "components": [
+      184
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFWM_pole_L",
+    "parent": [
+      389
+    ]
+  },
+  "185": {
+    "children": [],
+    "components": [
+      185
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SFWM_pole_R",
+    "parent": [
+      390
+    ]
+  },
+  "186": {
+    "children": [],
+    "components": [
+      186
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFWM_L",
+    "parent": [
+      389
+    ]
+  },
+  "187": {
+    "children": [],
+    "components": [
+      187
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFWM_R",
+    "parent": [
+      390
+    ]
+  },
+  "188": {
+    "children": [],
+    "components": [
+      188
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFWM_DPFC_L",
+    "parent": [
+      389
+    ]
+  },
+  "189": {
+    "children": [],
+    "components": [
+      189
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFWM_DPFC_R",
+    "parent": [
+      390
+    ]
+  },
+  "190": {
+    "children": [],
+    "components": [
+      190
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFWM_opercularis_L",
+    "parent": [
+      389
+    ]
+  },
+  "191": {
+    "children": [],
+    "components": [
+      191
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFWM_opercularis_R",
+    "parent": [
+      390
+    ]
+  },
+  "192": {
+    "children": [],
+    "components": [
+      192
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFWM_orbitalis_L",
+    "parent": [
+      389
+    ]
+  },
+  "193": {
+    "children": [],
+    "components": [
+      193
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFWM_orbitalis_R",
+    "parent": [
+      390
+    ]
+  },
+  "194": {
+    "children": [],
+    "components": [
+      194
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFWM_triangularis_L",
+    "parent": [
+      389
+    ]
+  },
+  "195": {
+    "children": [],
+    "components": [
+      195
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IFWM_triangularis_R",
+    "parent": [
+      390
+    ]
+  },
+  "196": {
+    "children": [],
+    "components": [
+      196
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LFOWM_L",
+    "parent": [
+      389
+    ]
+  },
+  "197": {
+    "children": [],
+    "components": [
+      197
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LFOWM_R",
+    "parent": [
+      390
+    ]
+  },
+  "198": {
+    "children": [],
+    "components": [
+      198
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFOWM_L",
+    "parent": [
+      389
+    ]
+  },
+  "199": {
+    "children": [],
+    "components": [
+      199
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MFOWM_R",
+    "parent": [
+      390
+    ]
+  },
+  "200": {
+    "children": [],
+    "components": [
+      200
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RGWM_L",
+    "parent": [
+      389
+    ]
+  },
+  "201": {
+    "children": [],
+    "components": [
+      201
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "RGWM_R",
+    "parent": [
+      390
+    ]
+  },
+  "202": {
+    "children": [],
+    "components": [
+      202
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PoCWM_L",
+    "parent": [
+      378
+    ]
+  },
+  "203": {
+    "children": [],
+    "components": [
+      203
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PoCWM_R",
+    "parent": [
+      379
+    ]
+  },
+  "204": {
+    "children": [],
+    "components": [
+      204
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCWM_L",
+    "parent": [
+      389
+    ]
+  },
+  "205": {
+    "children": [],
+    "components": [
+      205
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCWM_R",
+    "parent": [
+      390
+    ]
+  },
+  "206": {
+    "children": [],
+    "components": [
+      206
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SPWM_L",
+    "parent": [
+      378
+    ]
+  },
+  "207": {
+    "children": [],
+    "components": [
+      207
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SPWM_R",
+    "parent": [
+      379
+    ]
+  },
+  "208": {
+    "children": [],
+    "components": [
+      208
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SMWM_L",
+    "parent": [
+      378
+    ]
+  },
+  "209": {
+    "children": [],
+    "components": [
+      209
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SMWM_R",
+    "parent": [
+      379
+    ]
+  },
+  "210": {
+    "children": [],
+    "components": [
+      210
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "AGWM_L",
+    "parent": [
+      378
+    ]
+  },
+  "211": {
+    "children": [],
+    "components": [
+      211
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "AGWM_R",
+    "parent": [
+      379
+    ]
+  },
+  "212": {
+    "children": [],
+    "components": [
+      212
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCuWM_L",
+    "parent": [
+      378
+    ]
+  },
+  "213": {
+    "children": [],
+    "components": [
+      213
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PrCuWM_R",
+    "parent": [
+      379
+    ]
+  },
+  "214": {
+    "children": [],
+    "components": [
+      214
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STWM_L",
+    "parent": [
+      391
+    ]
+  },
+  "215": {
+    "children": [],
+    "components": [
+      215
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STWM_R",
+    "parent": [
+      392
+    ]
+  },
+  "216": {
+    "children": [],
+    "components": [
+      216
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STWM_pole_L",
+    "parent": [
+      391
+    ]
+  },
+  "217": {
+    "children": [],
+    "components": [
+      217
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "STWM_pole_R",
+    "parent": [
+      392
+    ]
+  },
+  "218": {
+    "children": [],
+    "components": [
+      218
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTWM_L",
+    "parent": [
+      391
+    ]
+  },
+  "219": {
+    "children": [],
+    "components": [
+      219
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTWM_R",
+    "parent": [
+      392
+    ]
+  },
+  "220": {
+    "children": [],
+    "components": [
+      220
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTWM_pole_L",
+    "parent": [
+      391
+    ]
+  },
+  "221": {
+    "children": [],
+    "components": [
+      221
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MTWM_pole_R",
+    "parent": [
+      392
+    ]
+  },
+  "222": {
+    "children": [],
+    "components": [
+      222
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ITWM_L",
+    "parent": [
+      391
+    ]
+  },
+  "223": {
+    "children": [],
+    "components": [
+      223
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ITWM_R",
+    "parent": [
+      392
+    ]
+  },
+  "224": {
+    "children": [],
+    "components": [
+      224
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "FuWM_L",
+    "parent": [
+      391
+    ]
+  },
+  "225": {
+    "children": [],
+    "components": [
+      225
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "FuWM_R",
+    "parent": [
+      392
+    ]
+  },
+  "226": {
+    "children": [],
+    "components": [
+      226
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SOWM_L",
+    "parent": [
+      393
+    ]
+  },
+  "227": {
+    "children": [],
+    "components": [
+      227
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SOWM_R",
+    "parent": [
+      394
+    ]
+  },
+  "228": {
+    "children": [],
+    "components": [
+      228
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MOWM_L",
+    "parent": [
+      393
+    ]
+  },
+  "229": {
+    "children": [],
+    "components": [
+      229
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MOWM_R",
+    "parent": [
+      394
+    ]
+  },
+  "230": {
+    "children": [],
+    "components": [
+      230
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IOWM_L",
+    "parent": [
+      393
+    ]
+  },
+  "231": {
+    "children": [],
+    "components": [
+      231
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IOWM_R",
+    "parent": [
+      394
+    ]
+  },
+  "232": {
+    "children": [],
+    "components": [
+      232
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CuWM_L",
+    "parent": [
+      393
+    ]
+  },
+  "233": {
+    "children": [],
+    "components": [
+      233
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CuWM_R",
+    "parent": [
+      394
+    ]
+  },
+  "234": {
+    "children": [],
+    "components": [
+      234
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LGWM_L",
+    "parent": [
+      393
+    ]
+  },
+  "235": {
+    "children": [],
+    "components": [
+      235
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "LGWM_R",
+    "parent": [
+      394
+    ]
+  },
+  "236": {
+    "children": [],
+    "components": [
+      236
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "rostralWM_ACC_L",
+    "parent": [
+      395
+    ]
+  },
+  "237": {
+    "children": [],
+    "components": [
+      237
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "rostralWM_ACC_R",
+    "parent": [
+      396
+    ]
+  },
+  "238": {
+    "children": [],
+    "components": [
+      238
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subcallosalWM_ACC_L",
+    "parent": [
+      395
+    ]
+  },
+  "239": {
+    "children": [],
+    "components": [
+      239
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subcallosalWM_ACC_R",
+    "parent": [
+      396
+    ]
+  },
+  "240": {
+    "children": [],
+    "components": [
+      240
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subgenualWM_ACC_L",
+    "parent": [
+      395
+    ]
+  },
+  "241": {
+    "children": [],
+    "components": [
+      241
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "subgenualWM_ACC_R",
+    "parent": [
+      396
+    ]
+  },
+  "242": {
+    "children": [],
+    "components": [
+      242
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "dorsalWM_ACC_L",
+    "parent": [
+      395
+    ]
+  },
+  "243": {
+    "children": [],
+    "components": [
+      243
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "dorsalWM_ACC_R",
+    "parent": [
+      396
+    ]
+  },
+  "244": {
+    "children": [],
+    "components": [
+      244
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCCWM_L",
+    "parent": [
+      395
+    ]
+  },
+  "245": {
+    "children": [],
+    "components": [
+      245
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "PCCWM_R",
+    "parent": [
+      396
+    ]
+  },
+  "246": {
+    "children": [],
+    "components": [
+      246
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CerebellumWM_R",
+    "parent": [
+      397
+    ]
+  },
+  "247": {
+    "children": [],
+    "components": [
+      247
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CerebellumWM_L",
+    "parent": [
+      398
+    ]
+  },
+  "248": {
+    "children": [],
+    "components": [
+      248
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "CSF",
+    "parent": []
+  },
+  "249": {
+    "children": [],
+    "components": [
+      249
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SKULL1",
+    "parent": []
+  },
+  "250": {
+    "children": [],
+    "components": [
+      250
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SKULL2",
+    "parent": []
+  },
+  "251": {
+    "children": [],
+    "components": [
+      251
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "SKULL3",
+    "parent": []
+  },
+  "252": {
+    "children": [],
+    "components": [
+      252
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MCP_cb_L",
+    "parent": [
+      398
+    ]
+  },
+  "253": {
+    "children": [],
+    "components": [
+      253
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "MCP_cb_R",
+    "parent": [
+      397
+    ]
+  },
+  "254": {
+    "children": [],
+    "components": [
+      254
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Bone marrow",
+    "parent": []
+  },
+  "255": {
+    "children": [],
+    "components": [
+      255
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ICP_cb_L",
+    "parent": [
+      398
+    ]
+  },
+  "256": {
+    "children": [],
+    "components": [
+      256
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ICP_cb_R",
+    "parent": [
+      397
+    ]
+  },
+  "257": {
+    "children": [],
+    "components": [
+      257
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "FrontSul_L",
+    "parent": [
+      399
+    ]
+  },
+  "258": {
+    "children": [],
+    "components": [
+      258
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "FrontSul_R",
+    "parent": [
+      400
+    ]
+  },
+  "259": {
+    "children": [],
+    "components": [
+      259
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "CentralSul_L",
+    "parent": [
+      401
+    ]
+  },
+  "260": {
+    "children": [],
+    "components": [
+      260
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "CentralSul_R",
+    "parent": [
+      402
+    ]
+  },
+  "261": {
+    "children": [],
+    "components": [
+      261
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "SylFrontSul_L",
+    "parent": [
+      403
+    ]
+  },
+  "262": {
+    "children": [],
+    "components": [
+      262
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "SylFrontSul_R",
+    "parent": [
+      404
+    ]
+  },
+  "263": {
+    "children": [],
+    "components": [
+      263
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "SylTempSul_L",
+    "parent": [
+      405
+    ]
+  },
+  "264": {
+    "children": [],
+    "components": [
+      264
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "SylTempSul_R",
+    "parent": [
+      406
+    ]
+  },
+  "265": {
+    "children": [],
+    "components": [
+      265
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "SylParieSul_L",
+    "parent": [
+      407
+    ]
+  },
+  "266": {
+    "children": [],
+    "components": [
+      266
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "SylParieSul_R",
+    "parent": [
+      408
+    ]
+  },
+  "267": {
+    "children": [],
+    "components": [
+      267
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "ParietSul_L",
+    "parent": [
+      409
+    ]
+  },
+  "268": {
+    "children": [],
+    "components": [
+      268
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "ParietSul_R",
+    "parent": [
+      410
+    ]
+  },
+  "269": {
+    "children": [],
+    "components": [
+      269
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "CinguSul_L",
+    "parent": [
+      411
+    ]
+  },
+  "270": {
+    "children": [],
+    "components": [
+      270
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "CinguSul_R",
+    "parent": [
+      412
+    ]
+  },
+  "271": {
+    "children": [],
+    "components": [
+      271
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "OcciptSul_L",
+    "parent": [
+      413
+    ]
+  },
+  "272": {
+    "children": [],
+    "components": [
+      272
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "OcciptSul_R",
+    "parent": [
+      414
+    ]
+  },
+  "273": {
+    "children": [],
+    "components": [
+      273
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "TempSul_L",
+    "parent": [
+      415
+    ]
+  },
+  "274": {
+    "children": [],
+    "components": [
+      274
+    ],
+    "is_sulcus": 1,
+    "level": 5,
+    "name": "TempSul_R",
+    "parent": [
+      416
+    ]
+  },
+  "275": {
+    "children": [],
+    "components": [
+      275
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Caudate_tail_L",
+    "parent": [
+      417
+    ]
+  },
+  "276": {
+    "children": [],
+    "components": [
+      276
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Fimbria_L",
+    "parent": [
+      332
+    ]
+  },
+  "277": {
+    "children": [],
+    "components": [
+      277
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Caudate_tail_R",
+    "parent": [
+      418
+    ]
+  },
+  "278": {
+    "children": [],
+    "components": [
+      278
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Fimbria_R",
+    "parent": [
+      333
+    ]
+  },
+  "279": {
+    "children": [],
+    "components": [
+      279
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Chroid_LVetc_L",
+    "parent": [
+      380
+    ]
+  },
+  "280": {
+    "children": [],
+    "components": [
+      280
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "Chroid_LVetc_R",
+    "parent": [
+      383
+    ]
+  },
+  "281": {
+    "children": [],
+    "components": [
+      281
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "IV_ventricle",
+    "parent": [
+      419
+    ]
+  },
+  "282": {
+    "children": [],
+    "components": [
+      282
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ECCL_L",
+    "parent": [
+      368
+    ]
+  },
+  "283": {
+    "children": [],
+    "components": [
+      283
+    ],
+    "is_sulcus": 0,
+    "level": 5,
+    "name": "ECCL_R",
+    "parent": [
+      369
+    ]
+  },
+  "284": {
+    "children": [
+      1,
+      3,
+      5
+    ],
+    "components": [
+      1,
+      3,
+      5
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SFG_L",
+    "parent": [
+      420
+    ]
+  },
+  "285": {
+    "children": [
+      2,
+      4,
+      6
+    ],
+    "components": [
+      2,
+      4,
+      6
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SFG_R",
+    "parent": [
+      421
+    ]
+  },
+  "286": {
+    "children": [
+      7,
+      9
+    ],
+    "components": [
+      7,
+      9
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "MFG_L",
+    "parent": [
+      420
+    ]
+  },
+  "287": {
+    "children": [
+      8,
+      10
+    ],
+    "components": [
+      8,
+      10
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "MFG_R",
+    "parent": [
+      421
+    ]
+  },
+  "288": {
+    "children": [
+      11,
+      13,
+      15
+    ],
+    "components": [
+      11,
+      13,
+      15
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "IFG_L",
+    "parent": [
+      420
+    ]
+  },
+  "289": {
+    "children": [
+      12,
+      14,
+      16
+    ],
+    "components": [
+      12,
+      14,
+      16
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "IFG_R",
+    "parent": [
+      421
+    ]
+  },
+  "290": {
+    "children": [
+      17,
+      19
+    ],
+    "components": [
+      17,
+      19
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "OG_L",
+    "parent": [
+      420
+    ]
+  },
+  "291": {
+    "children": [
+      18,
+      20
+    ],
+    "components": [
+      18,
+      20
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "OG_R",
+    "parent": [
+      421
+    ]
+  },
+  "292": {
+    "children": [
+      21
+    ],
+    "components": [
+      21
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "RG_L",
+    "parent": [
+      420
+    ]
+  },
+  "293": {
+    "children": [
+      22
+    ],
+    "components": [
+      22
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "RG_R",
+    "parent": [
+      421
+    ]
+  },
+  "294": {
+    "children": [
+      23
+    ],
+    "components": [
+      23
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PoCG_L",
+    "parent": [
+      422
+    ]
+  },
+  "295": {
+    "children": [
+      24
+    ],
+    "components": [
+      24
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PoCG_R",
+    "parent": [
+      423
+    ]
+  },
+  "296": {
+    "children": [
+      25
+    ],
+    "components": [
+      25
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PrCG_L",
+    "parent": [
+      420
+    ]
+  },
+  "297": {
+    "children": [
+      26
+    ],
+    "components": [
+      26
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PrCG_R",
+    "parent": [
+      421
+    ]
+  },
+  "298": {
+    "children": [
+      27
+    ],
+    "components": [
+      27
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SPG_L",
+    "parent": [
+      422
+    ]
+  },
+  "299": {
+    "children": [
+      28
+    ],
+    "components": [
+      28
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SPG_R",
+    "parent": [
+      423
+    ]
+  },
+  "300": {
+    "children": [
+      29
+    ],
+    "components": [
+      29
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SMG_L",
+    "parent": [
+      422
+    ]
+  },
+  "301": {
+    "children": [
+      30
+    ],
+    "components": [
+      30
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SMG_R",
+    "parent": [
+      423
+    ]
+  },
+  "302": {
+    "children": [
+      31
+    ],
+    "components": [
+      31
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "AG_L",
+    "parent": [
+      422
+    ]
+  },
+  "303": {
+    "children": [
+      32
+    ],
+    "components": [
+      32
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "AG_R",
+    "parent": [
+      423
+    ]
+  },
+  "304": {
+    "children": [
+      33
+    ],
+    "components": [
+      33
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PrCu_L",
+    "parent": [
+      422
+    ]
+  },
+  "305": {
+    "children": [
+      34
+    ],
+    "components": [
+      34
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PrCu_R",
+    "parent": [
+      423
+    ]
+  },
+  "306": {
+    "children": [
+      35,
+      37
+    ],
+    "components": [
+      35,
+      37
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "STG_L",
+    "parent": [
+      424
+    ]
+  },
+  "307": {
+    "children": [
+      36,
+      38
+    ],
+    "components": [
+      36,
+      38
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "STG_R",
+    "parent": [
+      425
+    ]
+  },
+  "308": {
+    "children": [
+      39,
+      41
+    ],
+    "components": [
+      39,
+      41
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "MTG_L",
+    "parent": [
+      424
+    ]
+  },
+  "309": {
+    "children": [
+      40,
+      42
+    ],
+    "components": [
+      40,
+      42
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "MTG_R",
+    "parent": [
+      425
+    ]
+  },
+  "310": {
+    "children": [
+      43
+    ],
+    "components": [
+      43
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "ITG_L",
+    "parent": [
+      424
+    ]
+  },
+  "311": {
+    "children": [
+      44
+    ],
+    "components": [
+      44
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "ITG_R",
+    "parent": [
+      425
+    ]
+  },
+  "312": {
+    "children": [
+      45,
+      47
+    ],
+    "components": [
+      45,
+      47
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Limbic_L",
+    "parent": [
+      426
+    ]
+  },
+  "313": {
+    "children": [
+      46,
+      48
+    ],
+    "components": [
+      46,
+      48
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Limbic_R",
+    "parent": [
+      427
+    ]
+  },
+  "314": {
+    "children": [
+      49
+    ],
+    "components": [
+      49
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "FuG_L",
+    "parent": [
+      424
+    ]
+  },
+  "315": {
+    "children": [
+      50
+    ],
+    "components": [
+      50
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "FuG_R",
+    "parent": [
+      425
+    ]
+  },
+  "316": {
+    "children": [
+      51
+    ],
+    "components": [
+      51
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SOG_L",
+    "parent": [
+      428
+    ]
+  },
+  "317": {
+    "children": [
+      52
+    ],
+    "components": [
+      52
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SOG_R",
+    "parent": [
+      429
+    ]
+  },
+  "318": {
+    "children": [
+      53
+    ],
+    "components": [
+      53
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "MOG_L",
+    "parent": [
+      428
+    ]
+  },
+  "319": {
+    "children": [
+      54
+    ],
+    "components": [
+      54
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "MOG_R",
+    "parent": [
+      429
+    ]
+  },
+  "320": {
+    "children": [
+      55
+    ],
+    "components": [
+      55
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "IOG_L",
+    "parent": [
+      428
+    ]
+  },
+  "321": {
+    "children": [
+      56
+    ],
+    "components": [
+      56
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "IOG_R",
+    "parent": [
+      429
+    ]
+  },
+  "322": {
+    "children": [
+      57
+    ],
+    "components": [
+      57
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Cu_L",
+    "parent": [
+      428
+    ]
+  },
+  "323": {
+    "children": [
+      58
+    ],
+    "components": [
+      58
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Cu_R",
+    "parent": [
+      429
+    ]
+  },
+  "324": {
+    "children": [
+      59
+    ],
+    "components": [
+      59
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "LG_L",
+    "parent": [
+      428
+    ]
+  },
+  "325": {
+    "children": [
+      60
+    ],
+    "components": [
+      60
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "LG_R",
+    "parent": [
+      429
+    ]
+  },
+  "326": {
+    "children": [
+      61,
+      63,
+      65,
+      67,
+      69
+    ],
+    "components": [
+      61,
+      63,
+      65,
+      67,
+      69
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Cingulate_L",
+    "parent": [
+      426
+    ]
+  },
+  "327": {
+    "children": [
+      62,
+      64,
+      66,
+      68,
+      70
+    ],
+    "components": [
+      62,
+      64,
+      66,
+      68,
+      70
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Cingulate_R",
+    "parent": [
+      427
+    ]
+  },
+  "328": {
+    "children": [
+      71
+    ],
+    "components": [
+      71
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Insula_L",
+    "parent": [
+      430
+    ]
+  },
+  "329": {
+    "children": [
+      72
+    ],
+    "components": [
+      72
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Insula_R",
+    "parent": [
+      431
+    ]
+  },
+  "330": {
+    "children": [
+      73
+    ],
+    "components": [
+      73
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Amyg_L",
+    "parent": [
+      426
+    ]
+  },
+  "331": {
+    "children": [
+      74
+    ],
+    "components": [
+      74
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Amyg_R",
+    "parent": [
+      427
+    ]
+  },
+  "332": {
+    "children": [
+      75,
+      276
+    ],
+    "components": [
+      75,
+      276
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Hippo_L",
+    "parent": [
+      426
+    ]
+  },
+  "333": {
+    "children": [
+      76,
+      278
+    ],
+    "components": [
+      76,
+      278
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Hippo_R",
+    "parent": [
+      427
+    ]
+  },
+  "334": {
+    "children": [
+      77
+    ],
+    "components": [
+      77
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Caud_L",
+    "parent": [
+      432
+    ]
+  },
+  "335": {
+    "children": [
+      78
+    ],
+    "components": [
+      78
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Caud_R",
+    "parent": [
+      433
+    ]
+  },
+  "336": {
+    "children": [
+      79
+    ],
+    "components": [
+      79
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Put_L",
+    "parent": [
+      432
+    ]
+  },
+  "337": {
+    "children": [
+      80
+    ],
+    "components": [
+      80
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Put_R",
+    "parent": [
+      433
+    ]
+  },
+  "338": {
+    "children": [
+      81
+    ],
+    "components": [
+      81
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "GP_L",
+    "parent": [
+      432
+    ]
+  },
+  "339": {
+    "children": [
+      82
+    ],
+    "components": [
+      82
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "GP_R",
+    "parent": [
+      433
+    ]
+  },
+  "340": {
+    "children": [
+      83
+    ],
+    "components": [
+      83
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Thalamus_L",
+    "parent": [
+      434
+    ]
+  },
+  "341": {
+    "children": [
+      84
+    ],
+    "components": [
+      84
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Thalamus_R",
+    "parent": [
+      435
+    ]
+  },
+  "342": {
+    "children": [
+      85,
+      87,
+      89,
+      157,
+      159,
+      162
+    ],
+    "components": [
+      85,
+      87,
+      89,
+      157,
+      159,
+      162
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "BasalForebrain_L",
+    "parent": [
+      436,
+      432
+    ]
+  },
+  "343": {
+    "children": [
+      86,
+      88,
+      90,
+      158,
+      160,
+      161
+    ],
+    "components": [
+      86,
+      88,
+      90,
+      158,
+      160,
+      161
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "BasalForebrain_R",
+    "parent": [
+      437,
+      433
+    ]
+  },
+  "344": {
+    "children": [
+      91,
+      93,
+      97,
+      99
+    ],
+    "components": [
+      91,
+      93,
+      97,
+      99
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Midbrain_L",
+    "parent": [
+      438
+    ]
+  },
+  "345": {
+    "children": [
+      92,
+      94,
+      98,
+      100
+    ],
+    "components": [
+      92,
+      94,
+      98,
+      100
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Midbrain_R",
+    "parent": [
+      439
+    ]
+  },
+  "346": {
+    "children": [
+      95
+    ],
+    "components": [
+      95
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Cerebellum_R",
+    "parent": [
+      440
+    ]
+  },
+  "347": {
+    "children": [
+      96
+    ],
+    "components": [
+      96
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Cerebellum_L",
+    "parent": [
+      441
+    ]
+  },
+  "348": {
+    "children": [
+      101,
+      103,
+      105,
+      107,
+      111,
+      113
+    ],
+    "components": [
+      101,
+      103,
+      105,
+      107,
+      111,
+      113
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Pons_L",
+    "parent": [
+      442
+    ]
+  },
+  "349": {
+    "children": [
+      102,
+      104,
+      106,
+      108,
+      112,
+      114
+    ],
+    "components": [
+      102,
+      104,
+      106,
+      108,
+      112,
+      114
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Pons_R",
+    "parent": [
+      443
+    ]
+  },
+  "350": {
+    "children": [
+      109,
+      115
+    ],
+    "components": [
+      109,
+      115
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Medulla_L",
+    "parent": [
+      444
+    ]
+  },
+  "351": {
+    "children": [
+      110,
+      116
+    ],
+    "components": [
+      110,
+      116
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Medulla_R",
+    "parent": [
+      445
+    ]
+  },
+  "352": {
+    "children": [
+      117,
+      119,
+      153
+    ],
+    "components": [
+      117,
+      119,
+      153
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "ant_DPWM_L",
+    "parent": [
+      446
+    ]
+  },
+  "353": {
+    "children": [
+      118,
+      120,
+      154
+    ],
+    "components": [
+      118,
+      120,
+      154
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "ant_DPWM_R",
+    "parent": [
+      447
+    ]
+  },
+  "354": {
+    "children": [
+      121
+    ],
+    "components": [
+      121
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "post_DPWM_L",
+    "parent": [
+      448
+    ]
+  },
+  "355": {
+    "children": [
+      122
+    ],
+    "components": [
+      122
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "post_DPWM_R",
+    "parent": [
+      449
+    ]
+  },
+  "356": {
+    "children": [
+      123
+    ],
+    "components": [
+      123
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "GCC_L",
+    "parent": [
+      450
+    ]
+  },
+  "357": {
+    "children": [
+      124
+    ],
+    "components": [
+      124
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "GCC_R",
+    "parent": [
+      451
+    ]
+  },
+  "358": {
+    "children": [
+      125
+    ],
+    "components": [
+      125
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "BCC_L",
+    "parent": [
+      450
+    ]
+  },
+  "359": {
+    "children": [
+      126
+    ],
+    "components": [
+      126
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "BCC_R",
+    "parent": [
+      451
+    ]
+  },
+  "360": {
+    "children": [
+      127
+    ],
+    "components": [
+      127
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SCC_L",
+    "parent": [
+      450
+    ]
+  },
+  "361": {
+    "children": [
+      128
+    ],
+    "components": [
+      128
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "SCC_R",
+    "parent": [
+      451
+    ]
+  },
+  "362": {
+    "children": [
+      129,
+      178
+    ],
+    "components": [
+      129,
+      178
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PVA_posterior_L",
+    "parent": [
+      452,
+      448
+    ]
+  },
+  "363": {
+    "children": [
+      130,
+      179
+    ],
+    "components": [
+      130,
+      179
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PVA_posterior_R",
+    "parent": [
+      453,
+      449
+    ]
+  },
+  "364": {
+    "children": [
+      131
+    ],
+    "components": [
+      131
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "ALIC_L",
+    "parent": [
+      452
+    ]
+  },
+  "365": {
+    "children": [
+      132
+    ],
+    "components": [
+      132
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "ALIC_R",
+    "parent": [
+      453
+    ]
+  },
+  "366": {
+    "children": [
+      133
+    ],
+    "components": [
+      133
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PLIC_L",
+    "parent": [
+      452
+    ]
+  },
+  "367": {
+    "children": [
+      134
+    ],
+    "components": [
+      134
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PLIC_R",
+    "parent": [
+      453
+    ]
+  },
+  "368": {
+    "children": [
+      135,
+      137,
+      147,
+      149,
+      151,
+      282
+    ],
+    "components": [
+      135,
+      137,
+      147,
+      149,
+      151,
+      282
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "inf_DPWM_L",
+    "parent": [
+      452
+    ]
+  },
+  "369": {
+    "children": [
+      136,
+      138,
+      148,
+      150,
+      152,
+      283
+    ],
+    "components": [
+      136,
+      138,
+      148,
+      150,
+      152,
+      283
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "inf_DPWM_R",
+    "parent": [
+      453
+    ]
+  },
+  "370": {
+    "children": [
+      139
+    ],
+    "components": [
+      139
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "CGC_L",
+    "parent": [
+      454
+    ]
+  },
+  "371": {
+    "children": [
+      140
+    ],
+    "components": [
+      140
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "CGC_R",
+    "parent": [
+      455
+    ]
+  },
+  "372": {
+    "children": [
+      141
+    ],
+    "components": [
+      141
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "CGH_L",
+    "parent": [
+      454
+    ]
+  },
+  "373": {
+    "children": [
+      142
+    ],
+    "components": [
+      142
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "CGH_R",
+    "parent": [
+      455
+    ]
+  },
+  "374": {
+    "children": [
+      143
+    ],
+    "components": [
+      143
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Fx_ST_L",
+    "parent": [
+      454
+    ]
+  },
+  "375": {
+    "children": [
+      144
+    ],
+    "components": [
+      144
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Fx_ST_R",
+    "parent": [
+      455
+    ]
+  },
+  "376": {
+    "children": [
+      145
+    ],
+    "components": [
+      145
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Fx_L",
+    "parent": [
+      454
+    ]
+  },
+  "377": {
+    "children": [
+      146
+    ],
+    "components": [
+      146
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Fx_R",
+    "parent": [
+      455
+    ]
+  },
+  "378": {
+    "children": [
+      155,
+      202,
+      206,
+      208,
+      210,
+      212
+    ],
+    "components": [
+      155,
+      202,
+      206,
+      208,
+      210,
+      212
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralParietalWM_L",
+    "parent": [
+      448
+    ]
+  },
+  "379": {
+    "children": [
+      156,
+      203,
+      207,
+      209,
+      211,
+      213
+    ],
+    "components": [
+      156,
+      203,
+      207,
+      209,
+      211,
+      213
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralParietalWM_R",
+    "parent": [
+      449
+    ]
+  },
+  "380": {
+    "children": [
+      165,
+      166,
+      279
+    ],
+    "components": [
+      165,
+      166,
+      279
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "AnteriorLateralVentricle_L",
+    "parent": [
+      456
+    ]
+  },
+  "381": {
+    "children": [
+      167,
+      168
+    ],
+    "components": [
+      167,
+      168
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PosteriorLateralVentricle_L",
+    "parent": [
+      456
+    ]
+  },
+  "382": {
+    "children": [
+      169
+    ],
+    "components": [
+      169
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "InferiorLateralVentricle_L",
+    "parent": [
+      456
+    ]
+  },
+  "383": {
+    "children": [
+      170,
+      171,
+      280
+    ],
+    "components": [
+      170,
+      171,
+      280
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "AnteriorLateralVentricle_R",
+    "parent": [
+      457
+    ]
+  },
+  "384": {
+    "children": [
+      172,
+      173
+    ],
+    "components": [
+      172,
+      173
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PosteriorLateralVentricle_R",
+    "parent": [
+      457
+    ]
+  },
+  "385": {
+    "children": [
+      174
+    ],
+    "components": [
+      174
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "InferiorLateralVentricle_R",
+    "parent": [
+      457
+    ]
+  },
+  "386": {
+    "children": [
+      175
+    ],
+    "components": [
+      175
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "III_ventricle",
+    "parent": [
+      458
+    ]
+  },
+  "387": {
+    "children": [
+      176
+    ],
+    "components": [
+      176
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PVA_anterior_L",
+    "parent": [
+      446
+    ]
+  },
+  "388": {
+    "children": [
+      177
+    ],
+    "components": [
+      177
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PVA_anterior_R",
+    "parent": [
+      447
+    ]
+  },
+  "389": {
+    "children": [
+      180,
+      182,
+      184,
+      186,
+      188,
+      190,
+      192,
+      194,
+      196,
+      198,
+      200,
+      204
+    ],
+    "components": [
+      180,
+      182,
+      184,
+      186,
+      188,
+      190,
+      192,
+      194,
+      196,
+      198,
+      200,
+      204
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralFrontalWM_L",
+    "parent": [
+      446
+    ]
+  },
+  "390": {
+    "children": [
+      181,
+      183,
+      185,
+      187,
+      189,
+      191,
+      193,
+      195,
+      197,
+      199,
+      201,
+      205
+    ],
+    "components": [
+      181,
+      183,
+      185,
+      187,
+      189,
+      191,
+      193,
+      195,
+      197,
+      199,
+      201,
+      205
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralFrontalWM_R",
+    "parent": [
+      447
+    ]
+  },
+  "391": {
+    "children": [
+      214,
+      216,
+      218,
+      220,
+      222,
+      224
+    ],
+    "components": [
+      214,
+      216,
+      218,
+      220,
+      222,
+      224
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralTemporalWM_L",
+    "parent": [
+      452
+    ]
+  },
+  "392": {
+    "children": [
+      215,
+      217,
+      219,
+      221,
+      223,
+      225
+    ],
+    "components": [
+      215,
+      217,
+      219,
+      221,
+      223,
+      225
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralTemporalWM_R",
+    "parent": [
+      453
+    ]
+  },
+  "393": {
+    "children": [
+      226,
+      228,
+      230,
+      232,
+      234
+    ],
+    "components": [
+      226,
+      228,
+      230,
+      232,
+      234
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralOccipitalWM_L",
+    "parent": [
+      448
+    ]
+  },
+  "394": {
+    "children": [
+      227,
+      229,
+      231,
+      233,
+      235
+    ],
+    "components": [
+      227,
+      229,
+      231,
+      233,
+      235
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralOccipitalWM_R",
+    "parent": [
+      449
+    ]
+  },
+  "395": {
+    "children": [
+      236,
+      238,
+      240,
+      242,
+      244
+    ],
+    "components": [
+      236,
+      238,
+      240,
+      242,
+      244
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralCingulateWM_L",
+    "parent": [
+      454
+    ]
+  },
+  "396": {
+    "children": [
+      237,
+      239,
+      241,
+      243,
+      245
+    ],
+    "components": [
+      237,
+      239,
+      241,
+      243,
+      245
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "PeripheralCingulateWM_R",
+    "parent": [
+      455
+    ]
+  },
+  "397": {
+    "children": [
+      246,
+      253,
+      256
+    ],
+    "components": [
+      246,
+      253,
+      256
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "CerebellumWM_R",
+    "parent": [
+      440
+    ]
+  },
+  "398": {
+    "children": [
+      247,
+      252,
+      255
+    ],
+    "components": [
+      247,
+      252,
+      255
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "CerebellumWM_L",
+    "parent": [
+      441
+    ]
+  },
+  "399": {
+    "children": [
+      257
+    ],
+    "components": [
+      257
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "FrontSul_L",
+    "parent": [
+      459
+    ]
+  },
+  "400": {
+    "children": [
+      258
+    ],
+    "components": [
+      258
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "FrontSul_R",
+    "parent": [
+      460
+    ]
+  },
+  "401": {
+    "children": [
+      259
+    ],
+    "components": [
+      259
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "CentralSul_L",
+    "parent": [
+      461
+    ]
+  },
+  "402": {
+    "children": [
+      260
+    ],
+    "components": [
+      260
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "CentralSul_R",
+    "parent": [
+      462
+    ]
+  },
+  "403": {
+    "children": [
+      261
+    ],
+    "components": [
+      261
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "SylFrontSul_L",
+    "parent": [
+      463
+    ]
+  },
+  "404": {
+    "children": [
+      262
+    ],
+    "components": [
+      262
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "SylFrontSul_R",
+    "parent": [
+      464
+    ]
+  },
+  "405": {
+    "children": [
+      263
+    ],
+    "components": [
+      263
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "SylTempSul_L",
+    "parent": [
+      463
+    ]
+  },
+  "406": {
+    "children": [
+      264
+    ],
+    "components": [
+      264
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "SylTempSul_R",
+    "parent": [
+      464
+    ]
+  },
+  "407": {
+    "children": [
+      265
+    ],
+    "components": [
+      265
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "SylParieSul_L",
+    "parent": [
+      463
+    ]
+  },
+  "408": {
+    "children": [
+      266
+    ],
+    "components": [
+      266
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "SylParieSul_R",
+    "parent": [
+      464
+    ]
+  },
+  "409": {
+    "children": [
+      267
+    ],
+    "components": [
+      267
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "ParietSul_L",
+    "parent": [
+      465
+    ]
+  },
+  "410": {
+    "children": [
+      268
+    ],
+    "components": [
+      268
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "ParietSul_R",
+    "parent": [
+      466
+    ]
+  },
+  "411": {
+    "children": [
+      269
+    ],
+    "components": [
+      269
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "CinguSul_L",
+    "parent": [
+      467
+    ]
+  },
+  "412": {
+    "children": [
+      270
+    ],
+    "components": [
+      270
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "CinguSul_R",
+    "parent": [
+      468
+    ]
+  },
+  "413": {
+    "children": [
+      271
+    ],
+    "components": [
+      271
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "OcciptSul_L",
+    "parent": [
+      469
+    ]
+  },
+  "414": {
+    "children": [
+      272
+    ],
+    "components": [
+      272
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "OcciptSul_R",
+    "parent": [
+      470
+    ]
+  },
+  "415": {
+    "children": [
+      273
+    ],
+    "components": [
+      273
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "TempSul_L",
+    "parent": [
+      471
+    ]
+  },
+  "416": {
+    "children": [
+      274
+    ],
+    "components": [
+      274
+    ],
+    "is_sulcus": 1,
+    "level": 4,
+    "name": "TempSul_R",
+    "parent": [
+      472
+    ]
+  },
+  "417": {
+    "children": [
+      275
+    ],
+    "components": [
+      275
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Caudate_tail_L",
+    "parent": [
+      432
+    ]
+  },
+  "418": {
+    "children": [
+      277
+    ],
+    "components": [
+      277
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "Caudate_tail_R",
+    "parent": [
+      433
+    ]
+  },
+  "419": {
+    "children": [
+      281
+    ],
+    "components": [
+      281
+    ],
+    "is_sulcus": 0,
+    "level": 4,
+    "name": "IV_ventricle",
+    "parent": [
+      473
+    ]
+  },
+  "420": {
+    "children": [
+      284,
+      286,
+      288,
+      290,
+      292,
+      296
+    ],
+    "components": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21,
+      25
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Frontal_L",
+    "parent": [
+      474
+    ]
+  },
+  "421": {
+    "children": [
+      285,
+      287,
+      289,
+      291,
+      293,
+      297
+    ],
+    "components": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      26
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Frontal_R",
+    "parent": [
+      475
+    ]
+  },
+  "422": {
+    "children": [
+      294,
+      298,
+      300,
+      302,
+      304
+    ],
+    "components": [
+      23,
+      27,
+      29,
+      31,
+      33
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Parietal_L",
+    "parent": [
+      474
+    ]
+  },
+  "423": {
+    "children": [
+      295,
+      299,
+      301,
+      303,
+      305
+    ],
+    "components": [
+      24,
+      28,
+      30,
+      32,
+      34
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Parietal_R",
+    "parent": [
+      475
+    ]
+  },
+  "424": {
+    "children": [
+      306,
+      308,
+      310,
+      314
+    ],
+    "components": [
+      35,
+      37,
+      39,
+      41,
+      43,
+      49
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Temporal_L",
+    "parent": [
+      474
+    ]
+  },
+  "425": {
+    "children": [
+      307,
+      309,
+      311,
+      315
+    ],
+    "components": [
+      36,
+      38,
+      40,
+      42,
+      44,
+      50
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Temporal_R",
+    "parent": [
+      475
+    ]
+  },
+  "426": {
+    "children": [
+      312,
+      326,
+      330,
+      332
+    ],
+    "components": [
+      45,
+      47,
+      61,
+      63,
+      65,
+      67,
+      69,
+      73,
+      75,
+      276
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Limbic_L",
+    "parent": [
+      474,
+      476
+    ]
+  },
+  "427": {
+    "children": [
+      313,
+      327,
+      331,
+      333
+    ],
+    "components": [
+      46,
+      48,
+      62,
+      64,
+      66,
+      68,
+      70,
+      74,
+      76,
+      278
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Limbic_R",
+    "parent": [
+      475,
+      477
+    ]
+  },
+  "428": {
+    "children": [
+      316,
+      318,
+      320,
+      322,
+      324
+    ],
+    "components": [
+      51,
+      53,
+      55,
+      57,
+      59
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Occipital_L",
+    "parent": [
+      474
+    ]
+  },
+  "429": {
+    "children": [
+      317,
+      319,
+      321,
+      323,
+      325
+    ],
+    "components": [
+      52,
+      54,
+      56,
+      58,
+      60
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Occipital_R",
+    "parent": [
+      475
+    ]
+  },
+  "430": {
+    "children": [
+      328
+    ],
+    "components": [
+      71
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Insula_L",
+    "parent": [
+      474
+    ]
+  },
+  "431": {
+    "children": [
+      329
+    ],
+    "components": [
+      72
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Insula_R",
+    "parent": [
+      475
+    ]
+  },
+  "432": {
+    "children": [
+      334,
+      336,
+      338,
+      342,
+      417
+    ],
+    "components": [
+      77,
+      79,
+      81,
+      89,
+      275
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "BasalGang_L",
+    "parent": [
+      476
+    ]
+  },
+  "433": {
+    "children": [
+      335,
+      337,
+      339,
+      343,
+      418
+    ],
+    "components": [
+      78,
+      80,
+      82,
+      90,
+      277
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "BasalGang_R",
+    "parent": [
+      477
+    ]
+  },
+  "434": {
+    "children": [
+      340
+    ],
+    "components": [
+      83
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Thalamus_L",
+    "parent": [
+      478
+    ]
+  },
+  "435": {
+    "children": [
+      341
+    ],
+    "components": [
+      84
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Thalamus_R",
+    "parent": [
+      479
+    ]
+  },
+  "436": {
+    "children": [
+      342
+    ],
+    "components": [
+      85,
+      87,
+      157,
+      159,
+      162
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "BasalForebrain_L",
+    "parent": [
+      480
+    ]
+  },
+  "437": {
+    "children": [
+      343
+    ],
+    "components": [
+      86,
+      88,
+      158,
+      160,
+      161
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "BasalForebrain_R",
+    "parent": [
+      481
+    ]
+  },
+  "438": {
+    "children": [
+      344
+    ],
+    "components": [
+      91,
+      93,
+      97,
+      99
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Midbrain_L",
+    "parent": [
+      482
+    ]
+  },
+  "439": {
+    "children": [
+      345
+    ],
+    "components": [
+      92,
+      94,
+      98,
+      100
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Midbrain_R",
+    "parent": [
+      483
+    ]
+  },
+  "440": {
+    "children": [
+      346,
+      397
+    ],
+    "components": [
+      95,
+      246,
+      253,
+      256
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Cerebellum_R",
+    "parent": [
+      484
+    ]
+  },
+  "441": {
+    "children": [
+      347,
+      398
+    ],
+    "components": [
+      96,
+      247,
+      252,
+      255
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Cerebellum_L",
+    "parent": [
+      485
+    ]
+  },
+  "442": {
+    "children": [
+      348
+    ],
+    "components": [
+      101,
+      103,
+      105,
+      107,
+      111,
+      113
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Pons_L",
+    "parent": [
+      485
+    ]
+  },
+  "443": {
+    "children": [
+      349
+    ],
+    "components": [
+      102,
+      104,
+      106,
+      108,
+      112,
+      114
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Pons_R",
+    "parent": [
+      484
+    ]
+  },
+  "444": {
+    "children": [
+      350
+    ],
+    "components": [
+      109,
+      115
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Medulla_L",
+    "parent": [
+      486
+    ]
+  },
+  "445": {
+    "children": [
+      351
+    ],
+    "components": [
+      110,
+      116
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "Medulla_R",
+    "parent": [
+      487
+    ]
+  },
+  "446": {
+    "children": [
+      352,
+      387,
+      389
+    ],
+    "components": [
+      117,
+      119,
+      153,
+      176,
+      180,
+      182,
+      184,
+      186,
+      188,
+      190,
+      192,
+      194,
+      196,
+      198,
+      200,
+      204
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "AnteriorWM_L",
+    "parent": [
+      488
+    ]
+  },
+  "447": {
+    "children": [
+      353,
+      388,
+      390
+    ],
+    "components": [
+      118,
+      120,
+      154,
+      177,
+      181,
+      183,
+      185,
+      187,
+      189,
+      191,
+      193,
+      195,
+      197,
+      199,
+      201,
+      205
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "AnteriorWM_R",
+    "parent": [
+      489
+    ]
+  },
+  "448": {
+    "children": [
+      354,
+      378,
+      362,
+      393
+    ],
+    "components": [
+      121,
+      155,
+      178,
+      202,
+      206,
+      208,
+      210,
+      212,
+      226,
+      228,
+      230,
+      232,
+      234
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "PosteriorWM_L",
+    "parent": [
+      488
+    ]
+  },
+  "449": {
+    "children": [
+      355,
+      379,
+      363,
+      394
+    ],
+    "components": [
+      122,
+      156,
+      179,
+      203,
+      207,
+      209,
+      211,
+      213,
+      227,
+      229,
+      231,
+      233,
+      235
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "PosteriorWM_R",
+    "parent": [
+      489
+    ]
+  },
+  "450": {
+    "children": [
+      356,
+      358,
+      360
+    ],
+    "components": [
+      123,
+      125,
+      127
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "CorpusCallosum_L",
+    "parent": [
+      488
+    ]
+  },
+  "451": {
+    "children": [
+      357,
+      359,
+      361
+    ],
+    "components": [
+      124,
+      126,
+      128
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "CorpusCallosum_R",
+    "parent": [
+      489
+    ]
+  },
+  "452": {
+    "children": [
+      362,
+      364,
+      366,
+      368,
+      391
+    ],
+    "components": [
+      129,
+      131,
+      133,
+      135,
+      137,
+      147,
+      149,
+      151,
+      214,
+      216,
+      218,
+      220,
+      222,
+      224,
+      282
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "InferiorWM_L",
+    "parent": [
+      488
+    ]
+  },
+  "453": {
+    "children": [
+      363,
+      365,
+      367,
+      369,
+      392
+    ],
+    "components": [
+      130,
+      132,
+      134,
+      136,
+      138,
+      148,
+      150,
+      152,
+      215,
+      217,
+      219,
+      221,
+      223,
+      225,
+      283
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "InferiorWM_R",
+    "parent": [
+      489
+    ]
+  },
+  "454": {
+    "children": [
+      370,
+      372,
+      374,
+      376,
+      395
+    ],
+    "components": [
+      139,
+      141,
+      143,
+      145,
+      236,
+      238,
+      240,
+      242,
+      244
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "LimbicWM_L",
+    "parent": [
+      488
+    ]
+  },
+  "455": {
+    "children": [
+      371,
+      373,
+      375,
+      377,
+      396
+    ],
+    "components": [
+      140,
+      142,
+      144,
+      146,
+      237,
+      239,
+      241,
+      243,
+      245
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "LimbicWM_R",
+    "parent": [
+      489
+    ]
+  },
+  "456": {
+    "children": [
+      380,
+      381,
+      382
+    ],
+    "components": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      279
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "LateralVentricle_L",
+    "parent": [
+      490
+    ]
+  },
+  "457": {
+    "children": [
+      383,
+      384,
+      385
+    ],
+    "components": [
+      170,
+      171,
+      172,
+      173,
+      174,
+      280
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "LateralVentricle_R",
+    "parent": [
+      490
+    ]
+  },
+  "458": {
+    "children": [
+      386
+    ],
+    "components": [
+      175
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "III_ventricle",
+    "parent": [
+      490
+    ]
+  },
+  "459": {
+    "children": [
+      399
+    ],
+    "components": [
+      257
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "FrontSul_L",
+    "parent": [
+      491
+    ]
+  },
+  "460": {
+    "children": [
+      400
+    ],
+    "components": [
+      258
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "FrontSul_R",
+    "parent": [
+      492
+    ]
+  },
+  "461": {
+    "children": [
+      401
+    ],
+    "components": [
+      259
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "CentralSul_L",
+    "parent": [
+      491
+    ]
+  },
+  "462": {
+    "children": [
+      402
+    ],
+    "components": [
+      260
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "CentralSul_R",
+    "parent": [
+      492
+    ]
+  },
+  "463": {
+    "children": [
+      403,
+      405,
+      407
+    ],
+    "components": [
+      261,
+      263,
+      265
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "SylvianFissureExt_L",
+    "parent": [
+      491
+    ]
+  },
+  "464": {
+    "children": [
+      404,
+      406,
+      408
+    ],
+    "components": [
+      262,
+      264,
+      266
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "SylvianFissureExt_R",
+    "parent": [
+      492
+    ]
+  },
+  "465": {
+    "children": [
+      409
+    ],
+    "components": [
+      267
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "ParietSul_L",
+    "parent": [
+      491
+    ]
+  },
+  "466": {
+    "children": [
+      410
+    ],
+    "components": [
+      268
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "ParietSul_R",
+    "parent": [
+      492
+    ]
+  },
+  "467": {
+    "children": [
+      411
+    ],
+    "components": [
+      269
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "CinguSul_L",
+    "parent": [
+      491
+    ]
+  },
+  "468": {
+    "children": [
+      412
+    ],
+    "components": [
+      270
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "CinguSul_R",
+    "parent": [
+      492
+    ]
+  },
+  "469": {
+    "children": [
+      413
+    ],
+    "components": [
+      271
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "OcciptSul_L",
+    "parent": [
+      491
+    ]
+  },
+  "470": {
+    "children": [
+      414
+    ],
+    "components": [
+      272
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "OcciptSul_R",
+    "parent": [
+      492
+    ]
+  },
+  "471": {
+    "children": [
+      415
+    ],
+    "components": [
+      273
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "TempSul_L",
+    "parent": [
+      491
+    ]
+  },
+  "472": {
+    "children": [
+      416
+    ],
+    "components": [
+      274
+    ],
+    "is_sulcus": 1,
+    "level": 3,
+    "name": "TempSul_R",
+    "parent": [
+      492
+    ]
+  },
+  "473": {
+    "children": [
+      419
+    ],
+    "components": [
+      281
+    ],
+    "is_sulcus": 0,
+    "level": 3,
+    "name": "IV_ventricle",
+    "parent": [
+      490
+    ]
+  },
+  "474": {
+    "children": [
+      420,
+      422,
+      424,
+      426,
+      428,
+      430
+    ],
+    "components": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21,
+      23,
+      25,
+      27,
+      29,
+      31,
+      33,
+      35,
+      37,
+      39,
+      41,
+      43,
+      45,
+      47,
+      49,
+      51,
+      53,
+      55,
+      57,
+      59,
+      61,
+      63,
+      65,
+      67,
+      69,
+      71,
+      75,
+      276
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "CerebralCortex_L",
+    "parent": [
+      493
+    ]
+  },
+  "475": {
+    "children": [
+      421,
+      423,
+      425,
+      427,
+      429,
+      431
+    ],
+    "components": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50,
+      52,
+      54,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      76,
+      278
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "CerebralCortex_R",
+    "parent": [
+      494
+    ]
+  },
+  "476": {
+    "children": [
+      426,
+      432
+    ],
+    "components": [
+      73,
+      77,
+      79,
+      81,
+      89,
+      275
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "CerebralNucli_L",
+    "parent": [
+      493
+    ]
+  },
+  "477": {
+    "children": [
+      427,
+      433
+    ],
+    "components": [
+      74,
+      78,
+      80,
+      82,
+      90,
+      277
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "CerebralNucli_R",
+    "parent": [
+      494
+    ]
+  },
+  "478": {
+    "children": [
+      434
+    ],
+    "components": [
+      83
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Thalamus_L",
+    "parent": [
+      495
+    ]
+  },
+  "479": {
+    "children": [
+      435
+    ],
+    "components": [
+      84
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Thalamus_R",
+    "parent": [
+      496
+    ]
+  },
+  "480": {
+    "children": [
+      436
+    ],
+    "components": [
+      85,
+      87,
+      157,
+      159,
+      162
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "BasalForebrain_L",
+    "parent": [
+      495
+    ]
+  },
+  "481": {
+    "children": [
+      437
+    ],
+    "components": [
+      86,
+      88,
+      158,
+      160,
+      161
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "BasalForebrain_R",
+    "parent": [
+      496
+    ]
+  },
+  "482": {
+    "children": [
+      438
+    ],
+    "components": [
+      91,
+      93,
+      97,
+      99
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Mesencephalon_L",
+    "parent": [
+      497
+    ]
+  },
+  "483": {
+    "children": [
+      439
+    ],
+    "components": [
+      92,
+      94,
+      98,
+      100
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Mesencephalon_R",
+    "parent": [
+      497
+    ]
+  },
+  "484": {
+    "children": [
+      440,
+      443
+    ],
+    "components": [
+      95,
+      102,
+      104,
+      106,
+      108,
+      112,
+      114,
+      246,
+      253,
+      256
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Metencephalon_R",
+    "parent": [
+      498
+    ]
+  },
+  "485": {
+    "children": [
+      441,
+      442
+    ],
+    "components": [
+      96,
+      101,
+      103,
+      105,
+      107,
+      111,
+      113,
+      247,
+      252,
+      255
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Metencephalon_L",
+    "parent": [
+      498
+    ]
+  },
+  "486": {
+    "children": [
+      444
+    ],
+    "components": [
+      109,
+      115
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Myelencephalon_L",
+    "parent": [
+      499
+    ]
+  },
+  "487": {
+    "children": [
+      445
+    ],
+    "components": [
+      110,
+      116
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Myelencephalon_R",
+    "parent": [
+      499
+    ]
+  },
+  "488": {
+    "children": [
+      446,
+      448,
+      450,
+      452,
+      454
+    ],
+    "components": [
+      117,
+      119,
+      121,
+      123,
+      125,
+      127,
+      129,
+      131,
+      133,
+      135,
+      137,
+      139,
+      141,
+      143,
+      145,
+      147,
+      149,
+      151,
+      153,
+      155,
+      176,
+      178,
+      180,
+      182,
+      184,
+      186,
+      188,
+      190,
+      192,
+      194,
+      196,
+      198,
+      200,
+      202,
+      204,
+      206,
+      208,
+      210,
+      212,
+      214,
+      216,
+      218,
+      220,
+      222,
+      224,
+      226,
+      228,
+      230,
+      232,
+      234,
+      236,
+      238,
+      240,
+      242,
+      244,
+      282
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "WhiteMatter_L",
+    "parent": [
+      493
+    ]
+  },
+  "489": {
+    "children": [
+      447,
+      449,
+      451,
+      453,
+      455
+    ],
+    "components": [
+      118,
+      120,
+      122,
+      124,
+      126,
+      128,
+      130,
+      132,
+      134,
+      136,
+      138,
+      140,
+      142,
+      144,
+      146,
+      148,
+      150,
+      152,
+      154,
+      156,
+      177,
+      179,
+      181,
+      183,
+      185,
+      187,
+      189,
+      191,
+      193,
+      195,
+      197,
+      199,
+      201,
+      203,
+      205,
+      207,
+      209,
+      211,
+      213,
+      215,
+      217,
+      219,
+      221,
+      223,
+      225,
+      227,
+      229,
+      231,
+      233,
+      235,
+      237,
+      239,
+      241,
+      243,
+      245,
+      283
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "WhiteMatter_R",
+    "parent": [
+      494
+    ]
+  },
+  "490": {
+    "children": [
+      456,
+      457,
+      458,
+      473
+    ],
+    "components": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      279,
+      280,
+      281
+    ],
+    "is_sulcus": 0,
+    "level": 2,
+    "name": "Ventricle",
+    "parent": [
+      500
+    ]
+  },
+  "491": {
+    "children": [
+      459,
+      461,
+      463,
+      465,
+      467,
+      469,
+      471
+    ],
+    "components": [
+      257,
+      259,
+      261,
+      263,
+      265,
+      267,
+      269,
+      271,
+      273
+    ],
+    "is_sulcus": 1,
+    "level": 2,
+    "name": "Sulcus_L",
+    "parent": [
+      501
+    ]
+  },
+  "492": {
+    "children": [
+      460,
+      462,
+      464,
+      466,
+      468,
+      470,
+      472
+    ],
+    "components": [
+      258,
+      260,
+      262,
+      264,
+      266,
+      268,
+      270,
+      272,
+      274
+    ],
+    "is_sulcus": 1,
+    "level": 2,
+    "name": "Sulcus_R",
+    "parent": [
+      501
+    ]
+  },
+  "493": {
+    "children": [
+      474,
+      476,
+      488
+    ],
+    "components": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19,
+      21,
+      23,
+      25,
+      27,
+      29,
+      31,
+      33,
+      35,
+      37,
+      39,
+      41,
+      43,
+      45,
+      47,
+      49,
+      51,
+      53,
+      55,
+      57,
+      59,
+      61,
+      63,
+      65,
+      67,
+      69,
+      71,
+      73,
+      75,
+      77,
+      79,
+      81,
+      89,
+      117,
+      119,
+      121,
+      123,
+      125,
+      127,
+      129,
+      131,
+      133,
+      135,
+      137,
+      139,
+      141,
+      143,
+      145,
+      147,
+      149,
+      151,
+      153,
+      155,
+      176,
+      178,
+      180,
+      182,
+      184,
+      186,
+      188,
+      190,
+      192,
+      194,
+      196,
+      198,
+      200,
+      202,
+      204,
+      206,
+      208,
+      210,
+      212,
+      214,
+      216,
+      218,
+      220,
+      222,
+      224,
+      226,
+      228,
+      230,
+      232,
+      234,
+      236,
+      238,
+      240,
+      242,
+      244,
+      275,
+      276,
+      282
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Telencephalon_L",
+    "parent": [
+      502
+    ]
+  },
+  "494": {
+    "children": [
+      475,
+      477,
+      489
+    ],
+    "components": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50,
+      52,
+      54,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74,
+      76,
+      78,
+      80,
+      82,
+      90,
+      118,
+      120,
+      122,
+      124,
+      126,
+      128,
+      130,
+      132,
+      134,
+      136,
+      138,
+      140,
+      142,
+      144,
+      146,
+      148,
+      150,
+      152,
+      154,
+      156,
+      177,
+      179,
+      181,
+      183,
+      185,
+      187,
+      189,
+      191,
+      193,
+      195,
+      197,
+      199,
+      201,
+      203,
+      205,
+      207,
+      209,
+      211,
+      213,
+      215,
+      217,
+      219,
+      221,
+      223,
+      225,
+      227,
+      229,
+      231,
+      233,
+      235,
+      237,
+      239,
+      241,
+      243,
+      245,
+      277,
+      278,
+      283
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Telencephalon_R",
+    "parent": [
+      502
+    ]
+  },
+  "495": {
+    "children": [
+      478,
+      480
+    ],
+    "components": [
+      83,
+      85,
+      87,
+      157,
+      159,
+      162
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Diencephalon_L",
+    "parent": [
+      502
+    ]
+  },
+  "496": {
+    "children": [
+      479,
+      481
+    ],
+    "components": [
+      84,
+      86,
+      88,
+      158,
+      160,
+      161
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Diencephalon_R",
+    "parent": [
+      502
+    ]
+  },
+  "497": {
+    "children": [
+      482,
+      483
+    ],
+    "components": [
+      91,
+      92,
+      93,
+      94,
+      97,
+      98,
+      99,
+      100
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Mesencephalon",
+    "parent": [
+      502
+    ]
+  },
+  "498": {
+    "children": [
+      484,
+      485
+    ],
+    "components": [
+      95,
+      96,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      111,
+      112,
+      113,
+      114,
+      246,
+      247,
+      252,
+      253,
+      255,
+      256
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Metencephalon",
+    "parent": [
+      502
+    ]
+  },
+  "499": {
+    "children": [
+      486,
+      487
+    ],
+    "components": [
+      109,
+      110,
+      115,
+      116
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Myelencephalon",
+    "parent": [
+      502
+    ]
+  },
+  "500": {
+    "children": [
+      490
+    ],
+    "components": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      279,
+      280,
+      281
+    ],
+    "is_sulcus": 0,
+    "level": 1,
+    "name": "Ventricle",
+    "parent": [
+      502
+    ]
+  },
+  "501": {
+    "children": [
+      491,
+      492
+    ],
+    "components": [
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274
+    ],
+    "is_sulcus": 1,
+    "level": 1,
+    "name": "Sulcus",
+    "parent": [
+      502
+    ]
+  },
+  "502": {
+    "children": [
+      501,
+      496,
+      494,
+      497,
+      498,
+      493,
+      500,
+      495,
+      499
+    ],
+    "components": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      252,
+      253,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283
+    ],
+    "level": 0,
+    "name": "Brain",
+    "parent": []
+  }
+}
