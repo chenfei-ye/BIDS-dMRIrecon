@@ -31,6 +31,7 @@ RUN	mkdir /root/.tractseg && \
 	
 
 ADD ./ /
+COPY /atlases /pipeline/atlases
 # COPY ./TractSeg_scripts/img_utils.py /opt/conda/lib/python3.8/site-packages/tractseg/libs/   
 # COPY ./TractSeg_scripts/tractseg_prob_tracking.py /opt/conda/lib/python3.8/site-packages/tractseg/libs/
 RUN chmod +x /Roi3D/VtpRoi3DGenerator
