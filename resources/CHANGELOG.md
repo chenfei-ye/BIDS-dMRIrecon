@@ -1,5 +1,8 @@
 ## Master
-* Release v4.3
+* Release v4.4
+
+## Release v4.4
+* bug fixed for schaefer atlas lookuptable
 
 ## Release v4.3
 * support multi session
